@@ -2,3 +2,5 @@ this is the first line of the text
 and this is the second
 i think i should write something more interesting
 or even a bit of code...
+
+and this is yet more lines after the first git add
